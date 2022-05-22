@@ -1,2 +1,6 @@
 # bash-Backup-Script
-You work for Universe Incorporated. One of your users - cloud_user - has placed a ticket to have a script written to back up his work directory to a new directory named work_backup in the his home directory. The script should also log all actions to a log file stored in the user's home directory.  Ensure the script works correctly by running it and verifying the files are backed up.  If you get stuck, feel free to check out the solution video or the detailed instructions in the lab guide. Good luck!
+You work for Universe Incorporated. One of your users — cloud_user — has an already existing backup script. There's been a request from two other users — adent and zbee — to have the same script made available. Modify /home/cloud_user/backup.sh to include using bash variables for the user directories and user names. Feel free to include variables for anything else you'd like.
+
+Once complete, copy the script to the other user directories, and ensure it runs and successfully backs up the required files.
+
+If you get stuck, feel free to check out the solution video or the detailed instructions under each objective. Good luck!
